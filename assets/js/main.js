@@ -23,9 +23,9 @@ function setUserLocation(pos) {
 
 // called after the map is added, adds our data into the map and list
 function initialize() {
-  // center on downtown Dayton
+  // center on downtown Lexington
   var mapOptions = {
-    center: new google.maps.LatLng(39.758948,-84.191607),
+    center: new google.maps.LatLng(38.0297,-84.4947),
     zoom: 10
   };
 
