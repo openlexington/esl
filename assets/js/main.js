@@ -63,7 +63,7 @@ function initialize() {
 
   Tabletop.init(
   {
-    key: '0ArVHHOqS9VmBdEI1Rk4tMEhxd2pNb1ByYXNQbUJjV0E',
+    key: '1w_ELB6cZC9P6gn-DzGve6zFnC4Z9-aiMmP7ja6Oo4yg',
     simpleSheet: true,
     callback: function(mapData, tabletop) {
       // put data into the map, store references to the markers and visibility in the JSON.
